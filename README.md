@@ -14,5 +14,5 @@ Thanks to following people contributing to this project:
 All resources in this repository are, unless indicated otherwise, licensed under a [Creative Commons Attribution 4.0 International (CC-BY-4.0) License](http://creativecommons.org/licenses/by/4.0/).  
 
 ### External Resources
-Following resources are governed by their respectiuve licenses:
+Following resources are governed by their respective licenses:
 * The [Spirit of the Game Logo](http://www.spiritofthegameday.org/resources/) is curtesy of [E.R.I.C.](http://earlyrecognitioniscritical.org) and [WFDF](http://www.wfdf.org)
